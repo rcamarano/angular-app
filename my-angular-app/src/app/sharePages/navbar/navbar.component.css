@@ -1,0 +1,5 @@
+.navbar-light .navbar-nav .nav-link-active-link {
+  color: rgba(111, 0, 246, 0.803);
+  font-weight: bold;
+  background-color: rgb(185, 185, 185);
+}
