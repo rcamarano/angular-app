@@ -10,7 +10,7 @@ Obrigado por sua visita.!
 <!--   <img alt="TFC!" src="imgs/5ca10a0410f76.png" width="250px"> -->
   <h1>Angular App!</h1>
   <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/angular-app/?color=blueviolet">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/angular-app?color=blueviolet">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/angular-app?color=blueviolet">
     <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/angular-app?color=blueviolet">
   </p>
