@@ -1,6 +1,7 @@
 # 🚀🚩 My fisrt Angular Project 🚩🚀
 
 >>> "Estundando esse fra,ework e colocando em prática os comandos da documentação para a criação dos componentes. Aproveitei para praticar o CSS usando Boostrap para customizar o estilo da página e seus componentes"
+>>> Esse projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 >>> Um projeto muito interessante e divertido de montar. Durante a execução pude desenvolver mais minhas habilidades de gestão do tempo, inteligência emocional, pensamento crítico e controle de ansiedade.
 >>> A partir de agora esse repositório fica disponível publicamente e estou aberto a sugestões e colaborações futuras.
 Obrigado por sua visita.!
