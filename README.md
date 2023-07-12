@@ -38,7 +38,7 @@ $ git clone https://github.com/rcamarano/angular-app .git
 $ cd my-angular-app 
 
 # Instale as dependências
-$ npm install
+$ npm init @angular my-angular-app
 
 $ ng serve
 
