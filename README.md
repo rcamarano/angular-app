@@ -18,7 +18,8 @@ Obrigado por sua visita.!
 
 ## Descrição
 
-"Esse projeto consiste em criar uma aplicação que consuma a API do Star Wars e exiba os dados de forma organizada. ALém disso deve ser possível filtrar os planetas por suas características como: nome, clima, terreno, dimensão e população. Um projeto que visa aprimorar os conhecimentos em React e Redux."
+"Esse projeto consiste em criar uma aplicação que consuma a API do Star Wars e exiba os dados de forma organizada. ALém disso deve ser possível filtrar os planetas por suas características como: nome, clima, terreno, dimensão e população. Um projeto que visa aprimorar os conhecimentos em React e Redux.
+Esse projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4."
 
 ## Tecnologias
 
